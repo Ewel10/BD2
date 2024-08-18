@@ -1,0 +1,10 @@
+{
+    "nome": "Ewel",
+    "idade": 25,
+    "curso": {
+      "nome": "engenharia de software", "coordenador": "Renzo Mesquita"
+    },
+    "periodo": 8,
+    "materias": [{"nome": "S05", "prof": "Raphael"},{"nome":"S04", "prof": "Chris"}]
+}
+  
